@@ -2,7 +2,6 @@
 
 [![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project.svg
 )](https://www.thehackingproject.org/)
-#### May, 9th-13th 2022
 
 # The Gossip Project
 
